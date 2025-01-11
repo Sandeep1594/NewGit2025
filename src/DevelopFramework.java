@@ -18,4 +18,12 @@ public class DevelopFramework {
 		
 	}
 	
+	public void cucumberWrapper() {
+		
+	}
+	
+	public void CICDIntegration() {
+		
+	}
+	
 }
