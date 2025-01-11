@@ -17,5 +17,10 @@ public class DynamicJson {
 		
 		System.out.println("Logic 3 added by user 2");
 	}
+
+	public void gitLogic4() {
+		
+		System.out.println("Logic 4 added by user 3");
+	}
 }
 
