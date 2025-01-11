@@ -7,5 +7,15 @@ public class DevelopFramework {
 	
 	public void testngIntegration() {
 		System.out.println("Develop some assertions");
+		
 	}
+	
+	public void extentReports() {
+		
+	}
+	
+	public void testData() {
+		
+	}
+	
 }
