@@ -7,4 +7,10 @@ public class DynamicJson {
 		System.out.println("Dummy commands added by User 1");
 	}
 
+	
+	public void gitLogic3() {
+		
+		System.out.println("Logic 3 added by user 2");
+	}
 }
+
